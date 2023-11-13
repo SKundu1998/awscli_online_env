@@ -1,2 +1,2 @@
-# Online Environment for AWS CLI
-A Github repo for hosting awscli environments via Gitpod, Codespaces, Cloud9 and any other alternatives that I can find. Master branch is empty, check other branches for env configs.
+# Cloud9 environment for AWS CLI
+This branch contains the files for setting up a Cloud9 environment to access AWS CLI. This will provide a separate environment for management tasks.
