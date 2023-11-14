@@ -1,1 +1,4 @@
 ./awscli_venv
+./awscli_venv/*
+./.git
+./.git/*
