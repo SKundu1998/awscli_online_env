@@ -1,2 +1,3 @@
 python -m venv ./awscli_venv
-./awscli_venv/bin/activate
+source ./awscli_venv/bin/activate
+pip install aws-shell --upgrade
